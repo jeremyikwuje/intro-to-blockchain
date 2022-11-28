@@ -5,7 +5,7 @@ If you are intending to start a career in blockchain/web3, one important thing t
 
 When you send a photo to me on WhatsApp, the original photo will still remain with you. I will only receive a copy of the file. You have not transferred the ownership of the file to me. Imagine it is the same way money works.
 
-If sending money online is just like sending a photo, you will never want to transferred the ownership. You will love to spend the "same 10 dollars twice".
+If sending money online is just like sending a photo, you will never want to transferred the ownership. You will love to spend the "same money twice".
 
 But a financial system where anyone is allowed to spend their money twice is bad.
 
@@ -13,7 +13,7 @@ But a financial system where anyone is allowed to spend their money twice is bad
 In the physical world, the double spend problem is not issue. Let’s say I have 10 dollars in cash. I give you 5 dollars, leaving me with a balance of 5 dollar. I can’t physically spend my 10 dollars again because my balance is just 5 dollar. No double-spending.
 
 ## Solutions
-For a long time, the practical solution for us to get around this issue of double spending money in the digital world is to trust a central financial entity, like a bank or PayPal. Anytime you send money to me, we both trust that this entity will verify the transaction and transfer the ownership from you to me.
+For a long time, the practical solution for us to get around this issue of double spending money in the digital world is to trust a central financial entity, like a bank or PayPal. Anytime you send money to me, we both trust that this entity will verify the transaction and transfer the ownership from you to me. So no one is double spending.
 
 However, the problems with trusting a financial entities are many. They are slow. Most of them charge fees and impose limits on the size, type, and number of transactions a user can execute. If you live in Europe and send 1000 dollars to your family in Africa, it may take up to 30 days for them to receive the money.
 
