@@ -1,7 +1,9 @@
 # Double Spend Problem
+> ***Bitcoin is a remarkable cryptographic achievement, and the ability to create something that is not duplicable in the digital world has enormous value. - Eric Schmidt, CEO of Google***
+ 
 If you are intending to start a career in blockchain/web3, one important thing to understand is the Double Spend Problem.
 
-> **A double spend problem is the potential of a digital single asset(or digital money) to be spent more than once.**
+**A double spend problem is the potential of a digital single asset(or digital money) to be spent more than once.**
 
 When you send a photo to me on WhatsApp, the original photo will still remain with you. I will only receive a copy of the file. You have not transferred the ownership of the file to me. Imagine it is the same way money works.
 
