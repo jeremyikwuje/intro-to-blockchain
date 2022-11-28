@@ -22,4 +22,4 @@ But there's no way we can effectively introduce blockchain without mentioning Bi
 
 So we are going to start by learning about Bitcoin and the problem it solves.
 
-Next >> [Double Spend Problem](https://dev.to/forwardschool/what-is-the-double-spend-problem-cep)
+Next >> [Double Spend Problem](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/double-spend-problem.md)
