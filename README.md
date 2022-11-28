@@ -1,3 +1,5 @@
+# Intro to Blockchain
+
 > ***[Blockchain] is the biggest opportunity set we can think of over the next decade or so. - Bob Greifeld, Nasdaq Chief Executive***
 
 Hello there!
@@ -8,9 +10,9 @@ This tutorial is intended for those who want to start a career in blockchain, bi
 
 Do not worry if this is your first time of hearing the term blockchain, by the end of this tutorial you should be comfortable with the term and get a good overview of what it is.
 
-### A brief intro,
+### About the author,
 
-I'm Jeremy, a Nigerian-born blockchain engineer and Bitcoin "priest".  I got into Bitcoin in 2017, as a way to make money, little did I know that Bitcoin is beyond a just financial asset. It is a breakthrough in technology and the beginning of a new world.
+I'm Jeremy, a Nigerian-born blockchain [engineer](https://twitter.com/jeremyikwuje) and Bitcoin "priest".  I got into Bitcoin in 2017, as a way to make money, little did I know that Bitcoin is beyond a just financial asset. It is a breakthrough in technology and the beginning of a new world.
 
 My goal is to contribute to the spread of blockchain and Bitcoin knowledge worldwide.
 
