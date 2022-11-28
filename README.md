@@ -1,4 +1,4 @@
-> [Blockchain] is the biggest opportunity set we can think of over the next decade or so. - Bob Greifeld, Nasdaq Chief Executive
+> ***[Blockchain] is the biggest opportunity set we can think of over the next decade or so. - Bob Greifeld, Nasdaq Chief Executive***
 
 Hello there!
 
