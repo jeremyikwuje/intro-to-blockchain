@@ -25,4 +25,4 @@ Bitcoin solves the double spend problem by using a [decentralized ledger](https:
 
 When I sends 5 bitcoin to you, the network destroy the 5 bitcoin I(the sender) own and create a new coin owned by you (the receiver). The destruction of my(the sender) 5 bitcoin  is recorded for all to see, so that I can never send it to someone else. And on average the transaction is confirmed and settle within an hour. There is no limit in the transaction one can make. And a single entity can't flag off the transaction.
 
-Next >> [Single Point Failure](https://github.com/jeremyikwuje/intro-to-blockchain/single-point-failure.md)
+Next >> [Single Point of Failure](https://github.com/jeremyikwuje/intro-to-blockchain/single-point-failure.md)
