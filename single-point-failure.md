@@ -22,4 +22,4 @@ Decentralization of data is one of the core characteristic of a Blockchain: Rath
 
 *PS: The idea that Ethereum is not fully decentralized and has many single points of failure may be true at the early days of ETH. However, at the time of this wirtting, it is almost impossible for ETH to experience a single point failure. The reason why I qouted Jack is to indicate that not every "blockchain" platform out there is fully decentralized, and choosing the right blockchain platform for your project is important.*
 
-**Next >> [What is a Blockchain?]()**
+**Next >> [What is a Blockchain?](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/what-is-a-blockchain.md)**
