@@ -2,7 +2,7 @@
 
 > ***if you’re building on ETH you have at least one, if not many, single points of failure and therefore not interesting to me - Jack Dorsey, Cofounder of Twitter***
 
-Imagine a football team that depends only on a single star player to win matches; and that players gets an injury, what happens to the team? 
+Imagine a football team that depends only on a single star player to win matches; and that player gets an injury, what happens to the team? 
 
 Or a business owner that needs $2500 per month to keep her business running, but has only a single client that pay $2500 per month. And after few months the client decide to stop doing business with her, what happens to the business? 
 
