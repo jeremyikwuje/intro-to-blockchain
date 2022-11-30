@@ -4,24 +4,18 @@
 
 Hello there!
 
-In this crash course you are about to learn what blockchain is and get a quick understanding of the technology behind Bitcoin, Crypto, NFT, and Web3.
+You are about to learn what blockchain is and get a quick understanding of the technology behind Bitcoin, Crypto, NFT, and Web3.
 
-This tutorial is intended for those who want to start a career in blockchain, bitcoin, and Web3.
-
-Do not worry if this is your first time of hearing the term blockchain, by the end of this tutorial you should be comfortable with the term and get a good overview of what it is.
-
-### About the author,
-
-I'm Jeremy, a Nigerian-born blockchain [engineer](https://twitter.com/jeremyikwuje) passionate about Bitcoin.  I got into Bitcoin in 2017, as a way to make money, little did I know that Bitcoin is beyond a just financial asset. It is a breakthrough in technology and the beginning of a new world.
-
-My goal is to contribute to the spread of blockchain and Bitcoin knowledge worldwide.
+This guide is intended for those who want to start a career in blockchain, bitcoin, and Web3. Don't worry if this is your first time hearing the term "blockchain". By the end of this guide you should be comfortable with the term "blockchain" and get a good overview of what it is.
 
 ### Blockchain > Bitcoin
 
-Blockchain is the technology behind Bitcoin. Bitcoin is a blockchain and not the only blockchain, there are other blockchains today like Ethereum, Solana, and Polkadot.
+You may have heard of Bitcoin. Bitcoin is the first and most popular [cryptocurrency](https://cointelegraph.com/blockchain-for-beginners/what-is-a-cryptocurrency-a-beginners-guide-to-digital-money) in the world.
 
-But there's no way we can effectively introduce blockchain without mentioning Bitcoin - the significant beginning of it all. Learning about Bitcoin is foundational in learning about blockchain.
+Blockchain is the technology behind Bitcoin. But Bitcoin is not the only blockchain platform. Ethereum, Solana, and Polkadot are some of the popular blockchain platforms out there.
 
-So we are going to start by learning about Bitcoin and the problem it solves.
+However, to effectively introduce blockchain, we have to explain why Bitcoin was created. Learning about Bitcoin is foundational in learning about blockchain.
+
+Let's start from the begining.
 
 **Next >> [Double Spend Problem](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/double-spend-problem.md)**
