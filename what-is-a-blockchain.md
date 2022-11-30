@@ -1,4 +1,5 @@
 # What is a Blockchain?
+> ***We have elected to put our money and faith in a mathematical framework that is free of politics and human error. - Tyler Winkelvoss, Rower & Entrepreneur***
 
 Blockchain is an open, decentralized and immutable database. A database is just data held in a computer.
 
