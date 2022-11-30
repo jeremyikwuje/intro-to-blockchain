@@ -10,9 +10,13 @@ The blockchain database is open, meaning anyone can access, read, and store info
 
 In a blockchain, data are stored in blocks. It is literally a chain of blocks. Think of it as blocks of data lined together piece by piece and each block is unique and a continuation of the previous.
 
-At this point, this may not be easy for you to grasp. But just know that a blockchain allows anyone to do **trustless transactions** that are ***open, decentralized, and unchangeable***. Trustless, means that we trust code and computer networks rather than trusting a middleman or single entity like a bank or Paypal.
+The more decentralized a blockchain is, the more difficult it is to experience a single point of failure.
+
+Also, in a blockchain, a double spend should never happen. This is due to the decentralized ledger, the network through its **consensus mechanism** ensures that no coins have been double spent. 
 
 **Each blockchain has a consensus mechanism**, a way in which the network agrees on what new information is stored on that database.
+
+At this point, this may not be easy for you to grasp. But just know that a blockchain allows anyone to do **trustless transactions** that are ***open, decentralized, and unchangeable***. Trustless, means that we trust code and computer networks rather than trusting a middleman or single entity like a bank or Paypal.
 
 
 **Next >> [Consensus Mechanism](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/consensus-mechanism.md)**
