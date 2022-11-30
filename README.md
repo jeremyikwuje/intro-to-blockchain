@@ -12,7 +12,7 @@ Do not worry if this is your first time of hearing the term blockchain, by the e
 
 ### About the author,
 
-I'm Jeremy, a Nigerian-born blockchain [engineer](https://twitter.com/jeremyikwuje) and Bitcoin "priest".  I got into Bitcoin in 2017, as a way to make money, little did I know that Bitcoin is beyond a just financial asset. It is a breakthrough in technology and the beginning of a new world.
+I'm Jeremy, a Nigerian-born blockchain [engineer](https://twitter.com/jeremyikwuje) passionate about Bitcoin.  I got into Bitcoin in 2017, as a way to make money, little did I know that Bitcoin is beyond a just financial asset. It is a breakthrough in technology and the beginning of a new world.
 
 My goal is to contribute to the spread of blockchain and Bitcoin knowledge worldwide.
 
