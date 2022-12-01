@@ -10,6 +10,10 @@ Unfortunately, people make poor choices in choosing a blockchain platform becaus
 
 Let's get to it.
 
+<p align="center">
+  <img src="https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/assets/consensus-2.jpg" alt="Consensus">
+</p>
+
 ## What is a Consensus?
 
 A "consensus" means a general agreement has been reached. For instance, consider a group of people going to a game station. If there is no disagreement on the proposed game to play, then a consensus is achieved. If there is disagreement, then the group must have a way to agree on a game to play. In a case where they couldn't reach an agreement, the group will eventually split.
