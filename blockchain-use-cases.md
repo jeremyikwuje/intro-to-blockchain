@@ -1,4 +1,4 @@
-# Blockchain use case & opportunities
+# Blockchain use cases & opportunities
 > ***Anything that can conceive of as a supply chain, blockchain can vastly improve its efficiency - it doesn’t matter if it's people, numbers, data, or money. - Ginni Rometty, CEO of IBM***
 
 1. The first major thing blockchain technology was used for is Bitcoin. Blockchain is the technology that powers Bitcoin money. Bitcoin itself is a blockchain network, hence the term "Bitcoin Blockchain" or "Bitcoin Network".
@@ -26,3 +26,7 @@ Today blockchain technology is used in multiple industries including but not lim
 The use cases and career opportunities in blockchain are growing every day. Think of anything or industry that has a supply chain, be it money, movies, or music, blockchain technology can be used to improve it.
 
 While Bitcoin and cryptocurrencies may be the major use cases of blockchain right now, the truth is, blockchain technology, like the internet, is going to be used in nearly every sector of the world.
+
+**Next >> [Resource](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/resource.md)**
+
+**Prev << [Blockchain Layers](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/layers.md)**
