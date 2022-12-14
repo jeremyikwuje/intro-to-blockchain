@@ -27,6 +27,6 @@ The use cases and career opportunities in blockchain are growing every day. Thin
 
 While Bitcoin and cryptocurrencies may be the major use cases of blockchain right now, the truth is, blockchain technology, like the internet, is going to be used in nearly every sector of the world.
 
-**Next >> [Resource](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/resource.md)**
+**Next >> [Careers in Blockchain](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/careers.md)**
 
 **Prev << [Blockchain Layers](https://github.com/jeremyikwuje/intro-to-blockchain/blob/main/layers.md)**
